@@ -1,6 +1,11 @@
 ## 👋 Hey there, I’m Christopher — aka Pooterman15
 
 Welcome to my little corner of GitHub, where ideas turn into code and caffeine turns into magic ☕⚡.
+## 🎮 Play My Game!
+
+Welcome to my first HTML/JS game project — a classic Snake Game built from scratch with love, learning, and a little chaos 😅
+
+👉 [Click here to play it live on GitHub Pages](https://pooterman15.github.io/snake-game/)
 
 ### 🚀 About Me
 I’m a self-taught technophile based in Cleveland, Ohio — always tinkering, always building. Whether it's old-school tech or the latest AI trends, I’m obsessed with learning, inventing, and pushing boundaries. My dream? To launch my own tech business and help other inventors rise with me. 🤝✨
